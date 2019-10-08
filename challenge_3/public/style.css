@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+button {
+  font-size: 20px;
+  background-color: rgb(224, 46, 40);
+  padding: 10px;
+  cursor: pointer;
+}
+
+.pinContainer {
+  text-align: center;
+}
+
+.pinSelectionContainer {
+  text-align: center;
+}
+
+.bowlingHeader {
+  width: 100vw;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+table {
+  border: 1px solid black;
+  border-spacing: 0px;
+}
+
+tr {
+  margin: 0px;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
